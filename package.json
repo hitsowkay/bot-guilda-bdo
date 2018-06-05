@@ -7,8 +7,9 @@
     "dependencies": {
         "discord.js": "^11.3.2"
     }
+    "scripts": {
+        "start": "node bot.js"
+    } 
 }
 
-"scripts": {
-  "start": "node bot_v2.js"
-}
+
